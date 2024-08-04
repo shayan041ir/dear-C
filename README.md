@@ -1,2 +1,2 @@
-# dear-C-
+# dear C++
 my little C++ projects 
